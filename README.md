@@ -6,6 +6,8 @@ Predicting Forward & Backward Facial Depth Maps from a Single RGB Image for Mobi
 
 Data available at http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm
 
-Use provided MATLAB code to fit 3DMM parameters to each face image and obtain point cloud data.
+Use MATLAB code provided in the above link to fit 3DMM parameters to each face image and obtain point cloud data.
 
 Use functions in data preprocessing notebook to convert point cloud to ground truth data.
+
+Training and model code can be found in model notebook.
